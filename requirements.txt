@@ -1,0 +1,5 @@
+opencv-python
+numpy
+pytest
+# Optional: only needed for the YOLO detector (--detector yolo)
+ultralytics
